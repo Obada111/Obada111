@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake" />
 </div>
 
-**Core:** Algorithms · Data Structures · Graphs · DP · Greedy · Number Theory · Geometry · STL (C++)  
+**Core:** Algorithms · Data Structures · Graphs · DP · Greedy · Number Theory · STL (C++)  
 **Tools:** g++ · Valgrind · GDB · Visual Studio Code · CLion
 
 ---
