@@ -1,60 +1,72 @@
 <div align="center">
-  <img height="176" src="https://i.pinimg.com/originals/ac/d0/e9/acd0e9e6ccf459db2038323321529132.gif"  />
+  <!-- Header GIF -->
+  <img src="https://i.pinimg.com/originals/ac/d0/e9/acd0e9e6ccf459db2038323321529132.gif" alt="header-gif" width="520"/>
+  <h1 align="center">hey there 👋 I'm Obada Joba</h1>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/obada-joba" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin" />
+    </a>
+    <a href="https://codeforces.com/profile/Obadajo" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1f8acb&logoColor=white&style=for-the-badge" height="28" alt="codeforces" />
+    </a>
+    <a href="https://github.com/Obada111" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="github" />
+    </a>
+  </p>
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="www.linkedin.com/in/obada-joba" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+## 👨‍🎓 About Me
+- 🇵🇸 I'm **Obada Joba** — 2nd year Computer Science student at **Palestine Polytechnic University**.  
+- 💻 C++ programmer focused on **Competitive Programming (CP)** and algorithms.  
+- ⚡ In my free time I solve problems on Codeforces and build C++ projects.  
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Obada111.Obada111&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Obada Joba from Palestine 🇵🇸<br>- 🛠 I’m working as a Computer Science student at Palestine Polytechnic University<br>- 📚 I'm currently learning advanced C++ and competitive programming<br>- ⚡ In my free time I solve problems on Codeforces and build small projects in C++</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠 Skills & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <!-- Languages & Tools icons (devicon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="CMake" />
 </div>
 
-###
+**Core:** Algorithms · Data Structures · Graphs · DP · Greedy · Number Theory · Geometry · STL (C++)  
+**Tools:** g++ · Valgrind · GDB · Visual Studio Code · CLion
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## 🚀 Featured Projects
+- **CP-Notebook** — Collection of solved problems and templates (C++).  
+- **Algorithm-Demos** — Small projects that visualize algorithms (BFS/DFS/Shortest Paths).  
+- **Personal-Portfolio** — My projects and short explanations.
+
+---
+
+## 📈 GitHub & CF Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Obada111&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <!-- Replace `Obada111` below with your GitHub username if different -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Obada111&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=Obada111&locale=en&mode=daily&theme=dark" alt="streak" height="140"/>
 </div>
 
-###
+**Codeforces:** [Obadajo — profile ➜](https://codeforces.com/profile/Obadajo)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/obada-joba  
+- Codeforces: https://codeforces.com/profile/Obadajo  
+- GitHub: https://github.com/Obada111
+
+---
