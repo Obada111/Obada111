@@ -21,7 +21,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🇵🇸 I'm **Obada Joba** — 2nd year Computer Science student at **Palestine Polytechnic University**.
+- 🇵🇸 I'm **Obada Joba** — 3nd year Computer Science student at **Palestine Polytechnic University**.
 - 💻 C++ programmer focused on **Competitive Programming (CP)** and algorithms.
 - ☕ Currently learning **Java** and **OOP**.
 - ⚡ In my free time I solve problems on Codeforces and build C++ projects.
