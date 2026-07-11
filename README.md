@@ -15,6 +15,9 @@
     <a href="https://github.com/Obada111" target="_blank">
       <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="github" />
     </a>
+    <a href="https://vjudge.net/user/Obadajo" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=VJudge&label=&color=007EC6&logoColor=white&style=for-the-badge" height="28" alt="vjudge" />
+    </a>
   </p>
 </div>
 
@@ -72,3 +75,4 @@
 - LinkedIn: https://www.linkedin.com/in/obada-joba
 - Codeforces: https://codeforces.com/profile/Obadajo
 - GitHub: https://github.com/Obada111
+- VJudge: https://vjudge.net/user/Obadajo
