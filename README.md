@@ -18,6 +18,9 @@
     <a href="https://vjudge.net/user/Obadajo" target="_blank">
       <img src="https://img.shields.io/static/v1?message=VJudge&label=&color=007EC6&logoColor=white&style=for-the-badge" height="28" alt="vjudge" />
     </a>
+    <a href="https://www.boot.dev/u/obada-joba" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Boot.dev&logo=&label=&color=00D084&logoColor=white&style=for-the-badge" height="28" alt="boot.dev" />
+    </a>
   </p>
 </div>
 
@@ -77,3 +80,4 @@
 - Codeforces: https://codeforces.com/profile/Obadajo
 - GitHub: https://github.com/Obada111
 - VJudge: https://vjudge.net/user/Obadajo
+- Boot.dev: https://www.boot.dev/u/obada-joba
