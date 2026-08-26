@@ -71,10 +71,11 @@
 
 ## 📈 GitHub & CF Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Obada111&show_icons=true&theme=dark&count_private=true" alt="GitHub stats" height="140"/>
-  <img src="https://streak-stats.demolab.com?user=Obada111&locale=en&mode=daily&theme=dark" alt="streak" height="140"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Obada111&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Obada111&locale=en&mode=daily&theme=dark" alt="GitHub Streak" />
+</p>
 
 **Codeforces:** [Obadajo — profile ➜](https://codeforces.com/profile/Obadajo)
 
@@ -83,7 +84,7 @@
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/obada-joba
 - Codeforces: https://codeforces.com/profile/Obadajo
-- GitHub: https://github.111 (تم تصحيح الرابط ليكون https://github.com/Obada111)
+- GitHub: https://github.com/Obada111
 - VJudge: https://vjudge.net/user/Obadajo
 - Boot.dev: https://www.boot.dev/u/obada-joba
 - LeetCode: https://leetcode.com/u/JZWJ0M6VQj/
