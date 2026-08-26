@@ -21,9 +21,6 @@
     <a href="https://www.boot.dev/u/obada-joba" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Boot.dev&logo=&label=&color=00D084&logoColor=white&style=for-the-badge" height="28" alt="boot.dev" />
     </a>
-    <a href="https://leetcode.com/u/JZWJ0M6VQj/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="28" alt="leetcode" />
-    </a>
   </p>
 </div>
 
@@ -45,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 
   <!-- Tools -->
@@ -84,4 +82,3 @@
 - GitHub: https://github.com/Obada111
 - VJudge: https://vjudge.net/user/Obadajo
 - Boot.dev: https://www.boot.dev/u/obada-joba
-- LeetCode: https://leetcode.com/u/JZWJ0M6VQj/
