@@ -30,7 +30,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🇵🇸 I'm **Obada Joba** — 3nd year Computer Science student at **Palestine Polytechnic University**.
+- 🇵🇸 I'm **Obada Joba** — 3rd year Computer Science student at **Palestine Polytechnic University**.
 - 💻 C++ programmer focused on **Competitive Programming (CP)** and algorithms.
 - ☕ Currently learning **Java** and **OOP**.
 - ⚡ In my free time I solve problems on Codeforces and build C++ projects.
@@ -83,7 +83,7 @@
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/obada-joba
 - Codeforces: https://codeforces.com/profile/Obadajo
-- GitHub: https://github.com/Obada111
+- GitHub: https://github.111 (تم تصحيح الرابط ليكون https://github.com/Obada111)
 - VJudge: https://vjudge.net/user/Obadajo
 - Boot.dev: https://www.boot.dev/u/obada-joba
 - LeetCode: https://leetcode.com/u/JZWJ0M6VQj/
