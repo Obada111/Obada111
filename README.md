@@ -21,6 +21,9 @@
     <a href="https://www.boot.dev/u/obada-joba" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Boot.dev&logo=&label=&color=00D084&logoColor=white&style=for-the-badge" height="28" alt="boot.dev" />
     </a>
+    <a href="https://leetcode.com/u/JZWJ0M6VQj/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="28" alt="leetcode" />
+    </a>
   </p>
 </div>
 
@@ -81,3 +84,4 @@
 - GitHub: https://github.com/Obada111
 - VJudge: https://vjudge.net/user/Obadajo
 - Boot.dev: https://www.boot.dev/u/obada-joba
+- LeetCode: https://leetcode.com/u/JZWJ0M6VQj/
