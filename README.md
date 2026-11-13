@@ -74,7 +74,7 @@
   <img src="https://streak-stats.demolab.com?user=Obada111&locale=en&mode=daily&theme=dark" alt="GitHub Streak" />
 </p>
 
-**Codeforces:** [Obadajo — profile ➜](https://codeforces.com/profile/Obadajo)
+
 
 ---
 
