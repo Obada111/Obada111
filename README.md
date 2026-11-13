@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
   <!-- Header GIF -->
   <img src="https://i.pinimg.com/originals/ac/d0/e9/acd0e9e6ccf459db2038323321529132.gif" alt="header-gif" width="520"/>
@@ -8,9 +9,6 @@
   <p>
     <a href="https://www.linkedin.com/in/obada-joba" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin" />
-    </a>
-    <a href="https://codeforces.com/profile/Obadajo" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=1f8acb&logoColor=white&style=for-the-badge" height="28" alt="codeforces" />
     </a>
     <a href="https://github.com/Obada111" target="_blank">
       <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="28" alt="github" />
@@ -33,7 +31,7 @@
 - 🇵🇸 I'm **Obada Joba** — 3rd year Computer Science student at **Palestine Polytechnic University**.
 - 💻 C++ programmer focused on **Competitive Programming (CP)** and algorithms.
 - ☕ Currently learning **Java** and **OOP**.
-- ⚡ In my free time I solve problems on Codeforces and build C++ projects.
+- ⚡ In my free time I solve programming problems and build C++ projects.
 
 ---
 
@@ -69,7 +67,7 @@
 
 ---
 
-## 📈 GitHub & CF Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Obada111&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
@@ -77,14 +75,11 @@
   <img src="https://streak-stats.demolab.com?user=Obada111&locale=en&mode=daily&theme=dark" alt="GitHub Streak" />
 </p>
 
-**Codeforces:** [Obadajo — profile ➜](https://codeforces.com/profile/Obadajo)
-
 ---
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/obada-joba
-- Codeforces: https://codeforces.com/profile/Obadajo
 - GitHub: https://github.com/Obada111
 - VJudge: https://vjudge.net/user/Obadajo
 - Boot.dev: https://www.boot.dev/u/obada-joba
-- LeetCode: https://leetcode.com/u/JZWJ0M6VQj/
+- LeetCode: https://leetcode.com/u
