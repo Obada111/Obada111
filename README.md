@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <!-- Header GIF -->
   <img src="https://i.pinimg.com/originals/ac/d0/e9/acd0e9e6ccf459db2038323321529132.gif" alt="header-gif" width="520"/>
@@ -31,7 +30,7 @@
 - 🇵🇸 I'm **Obada Joba** — 3rd year Computer Science student at **Palestine Polytechnic University**.
 - 💻 C++ programmer focused on **Competitive Programming (CP)** and algorithms.
 - ☕ Currently learning **Java** and **OOP**.
-- ⚡ In my free time I solve programming problems and build C++ projects.
+- ⚡ In my free time I solve problems on Codeforces and build C++ projects.
 
 ---
 
@@ -67,13 +66,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub & CF Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Obada111&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Obada111&locale=en&mode=daily&theme=dark" alt="GitHub Streak" />
 </p>
+
+**Codeforces:** [Obadajo — profile ➜](https://codeforces.com/profile/Obadajo)
 
 ---
 
@@ -82,4 +83,4 @@
 - GitHub: https://github.com/Obada111
 - VJudge: https://vjudge.net/user/Obadajo
 - Boot.dev: https://www.boot.dev/u/obada-joba
-- LeetCode: https://leetcode.com/u
+- LeetCode: https://leetcode.com/u/JZWJ0M6VQj/
